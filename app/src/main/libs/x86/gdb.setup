@@ -1,0 +1,3 @@
+set solib-search-path E:/work_studio/MyTest2/app/src/main//obj/local/x86
+source E:/20.software/android-ndk-r10d/prebuilt/common/gdb/common.setup
+directory E:/20.software/android-ndk-r10d/platforms/android-9/arch-x86/usr/include E:/work_studio/MyTest2/app/src/main//jni E:/20.software/android-ndk-r10d/sources/cxx-stl/system
